@@ -60,3 +60,5 @@ const button = document.getElementById('load');
 button.addEventListener('click', loadMoreTodos);
 
 loadMoreTodos();
+
+console.log('view the source at https://github.com/SivanMehta/todo-native')
