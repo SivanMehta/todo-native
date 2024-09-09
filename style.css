@@ -1,0 +1,56 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  color: #000;
+}
+/* 
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.App {
+  width: 90%;
+  height: 100%;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #adffc3;
+  color: black;
+}
+
+#search {
+  display: flex;
+  width: 400px;
+}
+
+input {
+  border-radius: 10px 0px 0px 10px;
+  border: 1px solid gray;
+  width: 66%;
+  height: 3rem;
+  font-size: 1rem;
+  padding-right: 15px;
+}
+
+input::placeholder {
+  padding: 15px;
+}
+
+button {
+  border-radius: 0px 10px 10px 0px;
+  background-color: #4E8EF8;
+  border: 1px solid gray;
+  color: white;
+  display: flex;
+  width: 33%;
+  justify-content: center;
+  align-items: center;
+  height: calc(3rem + 4px);
+} */
